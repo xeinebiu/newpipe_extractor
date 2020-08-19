@@ -1,0 +1,3 @@
+include ':app:newpipe'
+include ':app'
+rootProject.name = "NewPipe Extractor"
